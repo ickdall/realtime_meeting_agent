@@ -1,0 +1,9 @@
+fastapi
+uvicorn
+websockets
+pydantic
+langchain
+openai
+python-dotenv
+requests
+grpcio
